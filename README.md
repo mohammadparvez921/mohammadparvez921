@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mohammadparvez921
-- 👀 I’m passionate about software development
-- 🌱 Currently working as a MERN stack developer
+- 👋 Hi, I’m Mohammad Parvez
+- 👀 I’m passionate about Software Development
+- 🌱 Currently working as a Software Engineer
 - 💼 Open to collaborating on freelance projects
 - 📫 Reach me at parrymd786@gmail.com
 
