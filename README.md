@@ -2,7 +2,7 @@
 - 👀 I’m passionate about Software Development
 - 🌱 Currently working as a Software Engineer
 - 💼 Open to collaborating on freelance projects
-- 📫 Reach me at parrymd786@gmail.com
+- 📫 Reach me at mohammad.parvez.tech@gmail.com
 
 
 <!---
